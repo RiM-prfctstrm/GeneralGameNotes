@@ -20,9 +20,14 @@ CONTROL
 ||-Railings break so as not to obstruct projectiles
 
 DAEMON X MACHINA
-|-Clearly defined gameplay loop: Fight enemies to collect parts, use parts to customize mech, use customized mech to fight enemies.
+|-GAMEPLAY
+||-Clearly defined gameplay loop: Fight enemies to collect parts, use parts to customize mech, use customized mech to fight enemies
+||-Weak, numbers-based targets in shooters are boring to fight
+||-Every weapon has a different and distinct function, encouraging swapping between them mid-battle
+||-Post-battle timer gives you a chance to heal and collect loot
 |
-|-Weak, numbers-based targets in shooters are boring to fight.
-|
-|-Every weapon has a different and distinct function, encouraging swapping between them mid-battle
+|-STORY
+||-Most missions have dialogue playing throughout, at least early on. Seems like it's more about listening to the story than gameplay
+||-Emotional music clashes awkwardly with text message-based cutscenes
+||-Introducing characters then immediately switching to new ones without developement is a bad way to do an ensemble cast
 
