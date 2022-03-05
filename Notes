@@ -16,7 +16,7 @@ CONTROL
 ||-Makes combat  encounters immediately afterword much more stressful
 |
 |-Sidequests unlock new abilities
-||-Rewards directly affect your future play
+||-Rewards directly affect your future play during the main campaign
 ||-Makes doing them worthwhile
 |
 |-MISC
@@ -24,15 +24,20 @@ CONTROL
 ||-Railings break so as not to obstruct projectiles
 
 DAEMON X MACHINA
+|-Immortals aren't fun
+||-Bullet sponges
+||-Health is hard to see
+||-Almost never react to attacks
+||-Mostly target NPC allies
+||-Easy to dodge attacks
+||-All of this combines to make it feel like you're attacking a giant that pays no attentionion to you
+|
 |-GAMEPLAY
 ||-Clearly defined gameplay loop: Fight enemies to collect parts, use parts to customize mech, use customized mech to fight enemies
 ||-Weak, numbers-based targets in shooters are boring to fight
 ||-Every weapon has a different and distinct function, encouraging swapping between them mid-battle
 ||-Post-battle timer gives you a chance to heal and collect loot
 ||-Can be easy to accidentally back out of the mission area w/out noticing
-||-Immortal bosses are just bullet sponges
-|||-Have loads of health
-|||-Little to no reactions to getting attacked, even if they lose large amounts of health
 |
 |-STORY
 ||-Most missions have dialogue playing throughout, at least early on. Seems like it's more about listening to the story than gameplay
