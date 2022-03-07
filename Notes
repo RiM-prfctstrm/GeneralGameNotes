@@ -28,6 +28,7 @@ CONTROL
 ||-Checkpoints and fast travel points are the same
 ||-Railings break so as not to obstruct projectiles
 ||-Inventory is preserved over death
+||-Radios can't be picked up or thrown, probably to prevent sound calculations from getting too complex.
 
 DAEMON X MACHINA
 |-Immortals aren't fun
