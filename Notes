@@ -20,15 +20,23 @@ CONTROL
 ||-Ludically reinforces idea that AP is not some sort of dream space but an actual location
 ||-Makes combat  encounters immediately afterword much more stressful
 |
-|-Sidequests unlock new abilities
-||-Rewards directly affect your future play during the main campaign
-||-Makes doing them worthwhile
+|-SIDEQUESTS
+||-Major ones unlock new ablities, meaning their rewards directly affect how you play the campaign
+||-Objects of power demonstrate their abilities in the puzzles to unlock them so you're already familiar with them once you have them
+||-Board Countermeasures are the kind of quest you complete just by playing
+|
+|-SEIZE ABILITY
+||-Concept of friendly combatants introduced by the blue health bars on the guys in fron of the X-ray machine
+||-You can move while seizing, so it isn't a risky maneuver
+||-Seized enemies die on a timer so they aren't overpowered
+||-Seized enemies fight each other, probably to make encounters end faster if they're all that remain.
 |
 |-MISC
 ||-Checkpoints and fast travel points are the same
 ||-Railings break so as not to obstruct projectiles
 ||-Inventory is preserved over death
 ||-Radios can't be picked up or thrown, probably to prevent sound calculations from getting too complex.
+||-You respawn in the Astral Plane if you die there, probably so you don't have to repeat O.O.P. puzzles
 
 DAEMON X MACHINA
 |-Immortals aren't fun
