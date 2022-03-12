@@ -6,6 +6,7 @@ CONTENTS
 |-Team Fortress 2
 |-Super Mario Odyssey
 |-Sonic Mania
+|-2048
 
 CONTROL
 |-Player must have sufficient ammo for throwing
@@ -152,3 +153,6 @@ SONIC MANIA
 |-SPECIAL STAGE
 ||-Risk v. Reward: Faster is harder to control but gets you closer to victory
 ||-Makes you choose between getting rings, which prolong your timer, and orbs, which allow you to cath up to your target
+
+2048
+|-Difficulty escalates as you need more space to hold all the bigger numbers
