@@ -49,6 +49,10 @@ CONTROL
 ||-May just be my playstyle, but tends to be used more for fast transportation than combat
 ||-Forces physics objects so they dont block your dodge
 |
+|-LEVITATE
+||-Doesn't take energy so player you can still use other abilities with it
+||-Height and time limits prevent easy out-of-bounds
+|
 |-MISC
 ||-Checkpoints and fast travel points are the same
 ||-Railings break so as not to obstruct projectiles
