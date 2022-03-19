@@ -235,5 +235,66 @@ APERTURE DESK JOB
 CRISTALES
 |-SCREEN SPLIT
 ||-OVERWORLD
+|||-Note that here I mean towns, dungeons, etc, not the world map the game calls the overworld
 |||-Camera lines angled so player is always in the present
 |||-Past tinted brown and future tinted blue to look old and new, respectively
+|||-Gradients at camera edges to make it clear where each section ends
+|||-Gradients also make middle screen feel small
+|||-Music warps during time hops
+|||-Seeing characters' ages change as you walk by is some of the best environmental storytelling I've seen
+|||-Can't do much during time hops in order to prevent paradoxes
+||
+||-COMBAT
+|||-Doesnt start active so it can be used intentionally
+|||-Has potential to buff enemies
+|||-Primarily adds a puzzle element to combat
+|||-Each side can only go to one time, meaning that some strategies won't work depending on which direction enemies face
+|
+|-COMBAT TUTORIAL
+||-First thing you play to emphasize the importance of combat
+||-In medias res start really fits in a story where you can see multiple parts of time
+||-Feels a bit too long between this and the next combat encounter
+|
+|-NARIM TOWN/PROLOGUE
+||-NPCs in the first area talk about different parts of time
+||-Rose petals show where to go without holding player's hand
+||-Fewer petals on paths the player has already followed
+||-Mural in cathedral looks like game screen. Cements UI into the world
+||-As a tutorial, takes enough time, but storywise is too abrupt
+||-TUTORIAL
+|||-Though it separates the first and second combat encounters a little too much, the time is justified because the game's central mechanic is unique and the
+||| tutorial explains it well.
+|||-Including a decision in the first quest ingrains in the player that these will come up often
+||
+||-STORY
+|||-First quest is good as a self-contained story
+|||-Bad start to the overall plot
+|||-Crisbell gets thrust into the main plot before player gets to know her, giving the player little reason to care about her and her little motivation to
+||| join the main quest
+|||-One of Crisbell's major motivations is introduced by another character stating it to her. This is the worst way to introduce character motivation
+|
+|-COMBAT
+||-Enemies on both sides to enable time shift restrictions
+||-PASS
+|||-Moves character's turn instead of skipping it
+|||-Manipulating turn order could be an interesting strategy to build around
+|||-More interesting combat mechanic than time shifts. Time shifts add a puzzle element, but turn shifts fundamentally alter the flow of turn-based combat
+|
+|-JRPG HOMAGE
+||-Anime opening
+||-Turn-based combat
+||-Scantily-clad women
+|||-I get they're doing it as an homage to the classics of the genre, but it's a sexist trope
+|
+|-TIME PARADOX COUNTER: 1
+||-PRFCTSTRM'S UNIVERSAL LAW OF HOW TIME TRAVEL WORKS
+|||-It doesn't.
+|||-Paradoxes etc are inevitable in any time travel story. It's too complicated to keep track of all the variables, and often the story breaks its own rules
+||| for the sake of the plot
+||
+||-GLOWFRUIT TREE
+|||-Willhelm said Cris needed to take care of the Glowfruit Tree in order for it to grow. Her quest means she can't do so, but she still manages to obtain
+||| the fruit from the future.
+|
+|-MISC
+||-Can only save in world map. Prevents scumming in dungeons, but might be annoying in large areas
